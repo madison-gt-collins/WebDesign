@@ -34,10 +34,15 @@ h2, h3, h4{
   text-align: center;
 } 
 
-blockquote{
-    text-align: justify;
-}
-/* Here is my image styling */    
+/* Footer styling */
+    footer {
+        background-color: #000000;
+        color: #FFFFFF;
+        padding: 5px;
+        text-align: center;
+        margin-top: 10px;
+    }
+/* Image styling */    
     img {
         display: block;
         max-width: 100%;
