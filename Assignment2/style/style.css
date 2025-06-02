@@ -12,10 +12,11 @@ header {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
     background-color: #364239;
-     color: #FFFFFF;
     margin-bottom: auto;
 }
-
+h1, h2 {
+    color: #FFFFFF;
+}
 /* Navigation styling.*/
     nav {
         max-width: 100%;
