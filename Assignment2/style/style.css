@@ -1,6 +1,7 @@
 /* Body styling for all pages.*/ 
 body {
     background-color: #869075;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 /* Header styling.*/      
@@ -9,6 +10,7 @@ header {
     padding: 25px;
     text-align: center;
     text-decoration-color: #FFFFFF;
+    font-family: 'Courier New', Courier, monospace;
     background-color: #364239;
     margin-bottom: auto;
 }
@@ -21,47 +23,19 @@ header {
     }
 
 
-
-text {
-    font-family: 'Courier New', Courier, monospace;
-}
-
-
-
-
-
-
-
-li {
-
-list-style-type: none
-
-}
-
-li {
-  list-style-type: none;
-  color: navy;
-  display: inline-block;
-  font-family: Georgia, serif;
-}
-
-/* Here is my div styling */    
+/* Div styling */    
     div {
         background-color: #abc1cf;
         padding: 10px;
         border: 5px solid #000000;
         margin-top: 20px;
-        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-family: 'Courier New', Courier, monospace;
 }
-/* Centers the h3 inside the div */    
-    div h3 {
-        text-align: center;
-    }
-
 
 /* Footer styling */
     footer {
         background-color: #000000;
+        font-family: 'Courier New', Courier, monospace;
         color: #FFFFFF;
         padding: 5px;
         text-align: center;
