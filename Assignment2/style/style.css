@@ -1,14 +1,35 @@
 /* Body styling for all pages.*/ 
 body {
-    background-color: #869075
+    background-color: #869075;
 }
 
 /* Header styling.*/      
 header {
-  padding: 35px;
-  text-align: center;
-  background-color: #f1dc8a;
+    border: #FFFFFF;
+    padding: 25px;
+    text-align: center;
+    background-color: #f1dc8a;
+    margin-bottom: auto;
 }
+
+/* Navigation styling.*/
+    nav {
+        max-width: 100%;
+        margin: 0 auto;
+        background-color: #000000;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
 li {
 
 list-style-type: none
