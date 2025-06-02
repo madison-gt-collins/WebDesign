@@ -2,6 +2,7 @@
 body {
     background-color: #869075;
     font-family: 'Courier New', Courier, monospace;
+    color: #FFFFFF;
 }
 
 /* Header styling.*/      
@@ -19,7 +20,9 @@ header {
     nav {
         max-width: 100%;
         margin: 0 auto;
-        background-color: #000000;
+        background-color: #abc1cf;
+        font-family: 'Courier New', Courier, monospace;
+        color: #FFFFFF;
     }
 
 
