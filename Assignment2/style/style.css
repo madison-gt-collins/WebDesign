@@ -1,18 +1,16 @@
-/* Here is my body styling. this applies to all of the content on the page. */ 
+/* Body styling for all pages.*/ 
 body {
-    background-color: #8fbc9a;
+    background-color: #869075
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-       
 
-
-
-
+/* Header styling.*/      
 header {
   padding: 35px;
   text-align: center;
-  background-color: lightgoldenrodyellow;
+  background-color: #d4cba6;
 }
+
 
 li {
   list-style-type: none;
