@@ -5,10 +5,11 @@ body {
 
 /* Header styling.*/      
 header {
-    border: #FFFFFF;
+    border: 5px solid #000000;
     padding: 25px;
     text-align: center;
-    background-color: #f1dc8a;
+    text-decoration-color: #FFFFFF;
+    background-color: #364239;
     margin-bottom: auto;
 }
 
