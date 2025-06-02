@@ -62,7 +62,7 @@ h1, h2 {
     li {
         list-style-type: none;
         display: inline-block;
-        margin: 0 10px;
+        margin: 10px;
         padding: 5px 10px;
     }
 
