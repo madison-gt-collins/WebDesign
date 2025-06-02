@@ -2,7 +2,7 @@
 body {
     background-color: #869075;
     font-family: 'Courier New', Courier, monospace;
-    color: #FFFFFF;
+    
 }
 
 /* Header styling.*/      
@@ -10,9 +10,9 @@ header {
     border: 5px solid #000000;
     padding: 25px;
     text-align: center;
-    color: #FFFFFF;
     font-family: 'Courier New', Courier, monospace;
     background-color: #364239;
+     color: #FFFFFF;
     margin-bottom: auto;
 }
 
