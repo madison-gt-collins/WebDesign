@@ -17,6 +17,11 @@ header {
 h1, h2 {
     color: #FFFFFF;
 }
+h3{
+text-align: center;
+}
+
+
 
 /* Navigation styling.*/
     nav {
@@ -68,6 +73,7 @@ h1, h2 {
         display: inline-block;
         margin: 10px;
         padding: 5px 10px;
+    
     }
 
     a {
