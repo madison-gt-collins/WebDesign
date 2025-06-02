@@ -19,12 +19,11 @@ header {
 /* Navigation styling.*/
     nav {
         max-width: 100%;
-        display: inline-block;
         margin: 0 auto;
-        background-color: #abc1cf;
-        font-family: 'Courier New', Courier, monospace;
-        color: #FFFFFF;
+        background-color:#FFFFFF;
     }
+        
+        
 
 
 /* Div styling */    
