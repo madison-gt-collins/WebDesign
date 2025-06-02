@@ -10,7 +10,7 @@ header {
     border: 5px solid #000000;
     padding: 25px;
     text-align: center;
-    text-decoration-color: #FFFFFF;
+    color: #FFFFFF;
     font-family: 'Courier New', Courier, monospace;
     background-color: #364239;
     margin-bottom: auto;
@@ -19,6 +19,7 @@ header {
 /* Navigation styling.*/
     nav {
         max-width: 100%;
+        display: inline-block;
         margin: 0 auto;
         background-color: #abc1cf;
         font-family: 'Courier New', Courier, monospace;
