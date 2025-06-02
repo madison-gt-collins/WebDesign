@@ -12,7 +12,7 @@ header {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
     background-color: #364239;
-    margin-bottom: auto;
+    margin-bottom: 10px;
 }
 h1, h2 {
     color: #FFFFFF;
@@ -22,7 +22,6 @@ h1, h2 {
     nav {
         max-width: 100%;
         margin: 20px; /* all sides */
-        display: inline-block;
         background-color:#000000;
     }
         
