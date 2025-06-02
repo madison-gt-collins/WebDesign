@@ -27,7 +27,11 @@ li {
         margin-top: 10px;
         font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-       
+/* Centers the h3 inside the div */    
+    div h3 {
+        text-align: center;
+    }
+
 
 /* Footer styling */
     footer {
