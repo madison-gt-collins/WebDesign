@@ -53,3 +53,21 @@ h1, h2, h3{
         margin: 0 auto;
         image-orientation: center;
     }
+
+
+     ul {
+
+        padding: 5px;
+        text-align: center;
+    }
+
+    li {
+        list-style-type: none;
+        display: inline-block;
+        margin: 0 10px;
+        padding: 5px 10px;
+    }
+
+    a {
+        color: #FFFFFF;
+    }
