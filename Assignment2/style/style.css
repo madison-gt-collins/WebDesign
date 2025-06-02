@@ -1,3 +1,19 @@
+/* Here is my body styling. this applies to all of the content on the page. */ 
+    body {
+        background-color: #B0E0E6;
+        font-family: Georgia, serif;
+    }
+
+
+
+
+
+
+
+
+
+
+
 body {
 background-color: darkseagreen;
 }
@@ -6,7 +22,20 @@ header {
   text-align: center;
   background-color: lightgoldenrodyellow;
 }
-
+li {
+  list-style-type: none;
+  color: navy;
+  display: inline-block;
+  font-family: Georgia, serif;
+}
 h2, h3, h4 {
   text-align: center;
 } 
+
+/* Here is my image styling */    
+    img {
+        display: block;
+        max-width: 100%;
+        margin: 0 auto;
+        image-orientation: center;
+    }
