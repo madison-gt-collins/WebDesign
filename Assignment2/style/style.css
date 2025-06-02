@@ -1,22 +1,12 @@
 /* Here is my body styling. this applies to all of the content on the page. */ 
-    body {
-        background-color: #B0E0E6;
-        font-family: Georgia, serif;
-    }
-
-
-
-
-
-
-
-
-
-
-
 body {
-background-color: darkseagreen;
+    background-color: #8fbc9a;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+       
+
+
+
 
 header {
   padding: 35px;
