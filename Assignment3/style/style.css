@@ -32,9 +32,7 @@ h2 {
   text-align: center; /* centers the table heading */
 }
 
-li:hover {
-  background-color:#364239;
-}
+
 /* Navigation styling.*/
     nav {
         max-width: 100%;
