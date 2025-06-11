@@ -81,3 +81,56 @@ h3{
     a {
         color: #FFFFFF;
     }
+/*survey styling*/
+    form {
+  background-color: #f9f7f1; /* soft, warm background */
+  padding: 20px; /* space inside the form */
+  border-radius: 10px; /* smooth, rounded corners */
+  border: 1px solid #ccc; /* light gray border */
+  width: 75%; /* controls how wide it is */
+  margin: 0 auto; /* centers the form on the page */
+    }
+
+    fieldset {
+  border: none;
+  padding: 0;
+    }
+
+    legend {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+    label {
+  display: block; /* forces the label to be on its own line */
+  margin-top: 15px; /* adds space above each new form field */
+  font-weight: bold;
+}
+
+    input[type="text"],
+        input[type="email"],
+            select {
+        width: 100%;
+        margin: 0 auto;
+        padding: 8px;
+        margin-top: 5px;
+        font-size: 1rem;
+        border: 1px solid #aaa;
+        border-radius: 5px;
+        box-sizing: border-box;
+    }
+
+    button {
+  margin-top: 20px;
+  background-color: #5a3e36;
+  color: white;
+  padding: 10px 20px;
+  font-size: 1rem;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+    button:hover {
+  background-color: #7a564f;
+}
