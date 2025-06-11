@@ -193,7 +193,7 @@ nav {
   text-align: center;
 }
 
-header, .quotes, footer {
+header, .quotes, #gallery, footer {
   padding: 10px; /* Adds padding to header, .chapter, AND footer content */
 }
 }
