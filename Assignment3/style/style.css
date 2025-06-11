@@ -1,0 +1,82 @@
+/* Body styling for all pages.*/ 
+body {
+    background-color: #869075;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+/* Header styling.*/      
+header {
+    border: 5px solid #000000;
+    padding: 25px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #364239;
+    margin-bottom: 10px;
+}
+h1, h2 {
+    color: #FFFFFF;
+}
+
+h3{
+    text-align: center;
+}
+
+
+
+/* Navigation styling.*/
+    nav {
+        max-width: 100%;
+        margin: 0 auto;
+        background-color:#000000;
+    }
+        
+
+/* Div styling */    
+    div {
+        background-color: #abc1cf;
+        padding: 10px;
+        border: 5px solid #000000;
+        margin-top: 20px;
+        font-family: 'Courier New', Courier, monospace;
+}
+
+/* Centers the h3 inside the div */    
+    div h3 {
+        text-align: center;
+    }
+
+/* Footer styling */
+    footer {
+        background-color: #000000;
+        font-family: 'Courier New', Courier, monospace;
+        color: #FFFFFF;
+        padding: 5px;
+        text-align: center;
+    }
+/* Image styling */    
+    img {
+        display: block;
+        max-width: 100%;
+        margin: 0 auto;
+        image-orientation: center;
+    }
+
+
+     ul {
+
+        padding: 5px;
+        text-align: center;
+    }
+
+    li {
+        list-style-type: none;
+        display: inline-block;
+        margin: 10px;
+        padding: 5px 10px;
+    
+    }
+
+    a {
+        color: #FFFFFF;
+    }
