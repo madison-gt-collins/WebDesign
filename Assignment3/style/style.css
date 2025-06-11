@@ -158,7 +158,7 @@ blockquote {
 
     button {
   margin-top: 20px;
-  background-color: #5a3e36;
+  background-color: #364239;
   color: white;
   padding: 10px 20px;
   font-size: 1rem;
@@ -168,7 +168,7 @@ blockquote {
 }
 
     button:hover {
-  background-color: #7a564f;
+  background-color: #869075;
 }
 
 table {
