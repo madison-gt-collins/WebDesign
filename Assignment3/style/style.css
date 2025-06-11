@@ -83,6 +83,12 @@ h2 {
     a {
         color: #FFFFFF;
     }
+
+/* Here is my hero video styling */
+    video {
+        width: 100%;
+    }
+
 /*survey styling*/
     form {
   background-color: #f9f7f1; /* soft, warm background */
