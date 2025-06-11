@@ -114,7 +114,9 @@ blockquote {
     video {
         width: 100%;
     }
-
+ #audio {
+    text-align: center;
+  }
 /*survey styling*/
     form {
   background-color: #f9f7f1; /* soft, warm background */
