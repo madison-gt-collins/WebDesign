@@ -32,8 +32,8 @@ h2 {
   text-align: center; /* centers the table heading */
 }
 
-.quotes:hover {
-  background-color: rgb(49, 56, 123);
+li:hover {
+  background-color:#364239;
 }
 /* Navigation styling.*/
     nav {
