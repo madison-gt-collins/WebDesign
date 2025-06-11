@@ -35,7 +35,7 @@ h2 {
         
 
 /* Div styling */    
-    div {
+    .quotes {
         background-color: #abc1cf;
         padding: 10px;
         border: 5px solid #000000;
@@ -162,7 +162,7 @@ body {
     font-family: "Caveat", cursive;
 }
 
-div {
+#gallery {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -173,7 +173,7 @@ div {
   column-gap: 10px; /* horizontal spacing */
 }
 
-div img {
+#gallery img {
   width: 30%; /* three images per row (3 x 30% + gaps) */
   height: auto;
 }
