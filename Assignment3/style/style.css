@@ -19,7 +19,7 @@ header {
     font-family: 'Courier New', Courier, monospace;
     background-color: #364239;
     margin-bottom: 10px;
-    box-shadow: 4px 4px 8px rgba(0, 62, 249, 0.2);
+    box-shadow: 4px 4px 8px rgba(62, 121, 223, 0.2);
 }
 
 li:hover {
