@@ -55,13 +55,11 @@ h2 {
         margin-top: 20px;
         font-family: 'Courier New', Courier, monospace;
 }
-
 blockquote {
         text-align: center;
-        margin-top: 30px;
-        font-weight: bold;
-        font-size: 30px;
+
         }
+
 
     cite {
         display: block;
