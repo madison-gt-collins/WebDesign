@@ -168,21 +168,20 @@ body {
     font-family: "Caveat", cursive;
 }
 
-#gallery {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 10px; /* spacing between images */
-  max-width: 800px; /* optional: keeps the grid from stretching too far */
-  margin: 0 auto;
-  row-gap: 10px; /* vertical spacing */
-  column-gap: 10px; /* horizontal spacing */
-}
+   #gallery {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        max-width: 800px; /* optional: keeps the grid from stretching too far */
+        margin: 0 auto;
+        row-gap: 10px; /* vertical spacing */
+        column-gap: 10px; /* horizontal spacing */
+        }
 
-#gallery img {
-  width: 30%; /* three images per row (3 x 30% + gaps) */
-  height: auto;
-}
+    #gallery img {
+        width: 30%; /* three images per row (3 x 30% + gaps) */
+        height: auto;
+    }
 
 
 @media (max-width: 600px) {
