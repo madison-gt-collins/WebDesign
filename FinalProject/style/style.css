@@ -43,6 +43,11 @@ body {
   top: 8px;
 }
 
+.carousel-item img {
+  max-height: 680px;
+  object-fit: cover;
+  width: 100%;
+}
 
 @media (max-width: 600px) {
   /* Styles for mobile screens */
