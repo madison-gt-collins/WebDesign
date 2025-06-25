@@ -28,6 +28,7 @@ body {
   aspect-ratio: 1 / 1;
   display: flex;
   justify-content: center;
+  text-align: center;
 }
 
 .item img {
