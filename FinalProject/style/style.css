@@ -49,6 +49,15 @@ body {
   width: 100%;
 }
 
+button {
+  background-color: #3d0274;
+  transition: background-color 0.5s ease; 
+}
+
+button:hover {
+  background-color: #E6D6F2;
+}
+
 @media (max-width: 600px) {
   /* Styles for mobile screens */
 }
