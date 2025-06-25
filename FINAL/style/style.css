@@ -1,6 +1,6 @@
 /* Body styling for all pages.*/ 
 body {
-    background-color: #869075;
+    background-color: #5e001d;
     font-family:"merienda"
     
 }
@@ -17,9 +17,9 @@ header {
     padding: 25px;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
-    background-color: #364239;
+    background-color: #d5cdc5;
     margin-bottom: 10px;
-    box-shadow: 4px 4px 8px rgba(62, 121, 223, 0.2);
+    box-shadow: 4px 4px 8px #8c8e90;
 }
 
 li:hover {
