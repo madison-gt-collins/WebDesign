@@ -36,15 +36,18 @@
         <a class="nav-link" href="about.html">About</a>
       </li> <!-- I added this entire list item to Bootstrap's default code. Add more if needed! -->
     </ul>
+     </div>
+     
+    <div class="gallery">
+      <div class="item">One</div>
+  <div class="item">Two</div>
+  <div class="item">Three</div>
     </div>
-  </div>
+
+ 
   </nav>
 
-<p>&copy; <span id="year"></span> Madison Collins</p>
 
-<script>
-  document.getElementById("year").textContent = new Date().getFullYear();
-</script>
 <body>
   <nav> ... </nav>
   <header> ... </header>
@@ -53,5 +56,9 @@
     <!-- Add this section. Your core content goes here -->
   </main>
 
-  <footer> ... </footer>
+  <footer> <p>&copy; <span id="year"></span> Madison Collins</p>
+  <script>
+  document.getElementById("year").textContent = new Date().getFullYear();
+</script>
+ </footer>
 </body>
