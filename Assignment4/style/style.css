@@ -1,0 +1,235 @@
+/* Body styling for all pages.*/ 
+body {
+    background-color: #869075;
+    font-family:"merienda"
+    
+}
+
+.merienda- <uniquifier> {
+  font-family: "Merienda", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+/* Header styling.*/      
+header {
+    border: 5px solid #000000;
+    padding: 25px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #364239;
+    margin-bottom: 10px;
+    box-shadow: 4px 4px 8px rgba(62, 121, 223, 0.2);
+}
+
+li:hover {
+  background-color:#364239;
+}
+h1, h2 {
+    color: #FFFFFF;
+}
+
+h3{
+    text-align: center;
+}
+
+h2 {
+  text-align: center; /* centers the table heading */
+}
+
+
+
+/* Navigation styling.*/
+    nav {
+        max-width: 100%;
+        margin: 0 auto;
+        background-color:#000000;
+    }
+        
+
+/* Div styling */    
+    .quotes {
+        background-color: #abc1cf;
+        padding: 10px;
+        border: 5px solid #000000;
+        margin-top: 20px;
+        font-family: 'Courier New', Courier, monospace;
+}
+blockquote {
+        text-align: center;
+
+        }
+
+
+    cite {
+        display: block;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+
+/* Centers the h3 inside the div */    
+    div h3 {
+        text-align: center;
+    }
+
+/* Footer styling */
+    footer {
+        background-color: #000000;
+        font-family: 'Courier New', Courier, monospace;
+        color: #FFFFFF;
+        padding: 5px;
+        text-align: center;
+    }
+/* Image styling */    
+    img {
+        display: block;
+        max-width: 100%;
+        margin: 0 auto;
+        image-orientation: center;
+    }
+
+    
+    
+     ul {
+
+        padding: 5px;
+        text-align: center;
+    }
+
+    li {
+        list-style-type: none;
+        display: inline-block;
+        margin: 10px;
+        padding: 5px 10px;
+    
+    }
+
+    a {
+        color: #FFFFFF;
+    }
+
+/* Here is my hero video styling */
+    video {
+        width: 100%;
+    }
+ #audio {
+    text-align: center;
+  }
+/*survey styling*/
+    form {
+  background-color: #f9f7f1; /* soft, warm background */
+  padding: 20px; /* space inside the form */
+  border-radius: 10px; /* smooth, rounded corners */
+  border: 1px solid #ccc; /* light gray border */
+  width: 75%; /* controls how wide it is */
+  margin: 0 auto; /* centers the form on the page */
+    }
+
+    fieldset {
+  border: none;
+  padding: 0;
+    }
+
+    legend {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+    label {
+  display: block; /* forces the label to be on its own line */
+  margin-top: 15px; /* adds space above each new form field */
+  font-weight: bold;
+}
+
+    input[type="text"],
+        input[type="email"],
+            select {
+        width: 100%;
+        margin: 0 auto;
+        padding: 8px;
+        margin-top: 5px;
+        font-size: 1rem;
+        border: 1px solid #aaa;
+        border-radius: 5px;
+        box-sizing: border-box;
+    }
+
+    button {
+  margin-top: 20px;
+  background-color: #364239;
+  color: white;
+  padding: 10px 20px;
+  font-size: 1rem;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+    button:hover {
+  background-color: #869075;
+}
+
+table {
+  width: 78%; /* makes the table a bit narrower than full-width */
+  margin: 0 auto; /* centers the table horizontally */
+  margin-bottom: 30px; /* adds space below the table */
+  background-color: #fdfdfd; /* soft background for readability */
+  border: 1px solid #ccc; /* light gray outer border */
+  border-radius: 4px; /* slightly rounded corners */
+}
+
+th, td {
+  padding: 12px; /* adds space inside each cell */
+  border: 1px solid #ccc; /* gives all cells a light border */
+  text-align: left; /* aligns content to the left for easier reading */
+}
+
+th {
+  background-color: #f5f5f5; /* light gray background for contrast */
+  font-weight: bold; /* makes header text stand out */
+  color: #5a3e36; /* a warm brown color for an elegant touch */
+}
+
+body {
+    font-family: "Caveat", cursive;
+}
+
+   #gallery {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        max-width: 800px; /* optional: keeps the grid from stretching too far */
+        margin: 0 auto;
+        row-gap: 10px; /* vertical spacing */
+        column-gap: 10px; /* horizontal spacing */
+        }
+
+    #gallery img {
+        width: 30%; /* three images per row (3 x 30% + gaps) */
+        height: auto;
+        border-radius: 12px;
+ 
+    }
+
+
+@media (max-width: 600px) {
+    body {
+  font-size: 16px;
+  padding: 10px;
+}
+li {
+  display: block; /* Makes the list items stack vertically */
+  margin: 10px 0; /* Adds 10px space above and below the element, no space on the sides */
+}
+
+nav {
+  text-align: center;
+}
+
+header, .quotes, #gallery, footer {
+  padding: 10px; /* Adds padding to header, .chapter, AND footer content */
+}
+}
+
+
+
