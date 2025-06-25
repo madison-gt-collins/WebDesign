@@ -10,12 +10,9 @@
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   gap: 20px;
+   justify-content: center
 }
 
 .item {
- background-color: #fcf9ff;
-  border-radius: 8px;
-  aspect-ratio: 1 / 1;
-  display: flex;
   justify-content: center;
 }
