@@ -50,7 +50,7 @@ body {
 }
 
 button {
-  background-color: #3d0274;
+  background-color: rgb(94, 0, 29);
   transition: background-color 0.5s ease; 
 }
 
@@ -64,7 +64,7 @@ button:hover {
  #audio {
     text-align: center;
   }
-  
+
 @media (max-width: 600px) {
   /* Styles for mobile screens */
 }
