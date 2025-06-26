@@ -6,6 +6,15 @@ body {
   margin: 0;
 }
 
+  @font-face {
+       font-family: 'MyCustomFont';
+       src: url('fonts/my-custom-font.hyperwave') format('.hyperwave'),
+            url('fonts/my-custom-font.woff') format('woff');
+       font-weight: normal;
+       font-style: normal;
+     }
+
+
 .gallery {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
