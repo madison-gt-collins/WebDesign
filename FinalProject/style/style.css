@@ -58,6 +58,13 @@ button:hover {
   background-color: #E6D6F2;
 }
 
+ video {
+        width: 100%;
+    }
+ #audio {
+    text-align: center;
+  }
+  
 @media (max-width: 600px) {
   /* Styles for mobile screens */
 }
