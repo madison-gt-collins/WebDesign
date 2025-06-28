@@ -67,7 +67,7 @@ body {
 
 .item img {
   padding: 0;
-  width: 70%; /* makes the image fill the container’s width */
+  width: 100%; /* makes the image fill the container’s width */
   height: auto; /* maintains the image's aspect ratio */
   display: block; /* clears any space after the image */
   border-radius: 8px; /* optional */
@@ -118,14 +118,8 @@ li:hover {
         text-align: center;
     }
 
-img{
-        display: block;
-        max-width: 50%;
-        margin: 0 auto;
-        image-orientation: center;
-        gap: 10px;
-  
-}
+
+
 blockquote {
         background-color: rgb(140, 142, 144);
         padding: 10px;
