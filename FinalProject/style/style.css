@@ -54,6 +54,13 @@ body {
 }
 
 
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  gap: 10px;
+  margin: auto; 
+  padding: 10px;
+}
 
 .item {
  background-color: rgb(94, 0, 29); 
