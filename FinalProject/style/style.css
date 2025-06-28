@@ -3,7 +3,7 @@ header {
     border: 5px solid #000000;
     padding: 25px;
     text-align: center;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: "DM Serif Display", serif;
     background-color: rgb(140,142,144);
     margin-bottom: 10px;
     box-shadow: 4px 4px 8px rgba(94,0,29);
@@ -68,6 +68,7 @@ body {
 .navbar-brand {
   position: absolute;
   top: 8px;
+  font-family: "DM Serif Display", serif;
 }
 
 .carousel-item img {
