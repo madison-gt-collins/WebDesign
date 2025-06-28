@@ -12,7 +12,6 @@ header {
 
 
 
-
 .dm-serif-display-regular {
   font-family: "DM Serif Display", serif;
   font-weight: 400;
@@ -35,6 +34,7 @@ body {
   margin: auto; 
   padding: 10px;
 }
+
 .gallery img {
         width: 30%; /* three images per row (3 x 30% + gaps) */
         height: auto;
@@ -121,7 +121,7 @@ h3{
   
 }
 li:hover {
-  background-color:#364239;
+  background-color:rgb(94, 0, 29);
 }
    footer {
         background-color: #000000;
