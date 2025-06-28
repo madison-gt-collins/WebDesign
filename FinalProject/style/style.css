@@ -35,6 +35,10 @@ body {
   margin: auto; 
   padding: 10px;
 }
+.gallery img {
+        width: 30%; /* three images per row (3 x 30% + gaps) */
+        height: auto;
+        border-radius: 12px;}
 
 .gallery2 {
         display: flex;
