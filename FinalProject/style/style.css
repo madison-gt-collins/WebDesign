@@ -54,21 +54,6 @@ body {
 }
 
 
-#gallery {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: center;
-        max-width: 800px; /* optional: keeps the grid from stretching too far */
-        margin: 0 auto;
-        row-gap: 10px; /* vertical spacing */
-        column-gap: 10px; /* horizontal spacing */
-        }
-
-    #gallery img {
-        width: 30%; /* three images per row (3 x 30% + gaps) */
-        height: auto;
-        border-radius: 12px;
-    }
 
 .item {
  background-color: rgb(94, 0, 29); 
@@ -85,7 +70,7 @@ body {
   width: 100%; /* makes the image fill the container’s width */
   height: auto; /* maintains the image's aspect ratio */
   display: block; /* clears any space after the image */
-  border-radius: 8px; /* optional */
+
 }
 
 .item p {
