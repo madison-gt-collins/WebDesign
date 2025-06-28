@@ -11,6 +11,7 @@ header {
 
 
 
+
 .dm-serif-display-regular {
   font-family: "DM Serif Display", serif;
   font-weight: 400;
@@ -112,6 +113,9 @@ button:hover {
     text-align: center;
   }
 
+h3{
+    text-align: center;
+}
 
    footer {
         background-color: #000000;
