@@ -156,7 +156,7 @@ font-family: "DM Serif Display", serif;
 
 /* unvisited link */
 a:link {
-  color: rgb(94, 0, 29);
+  color: rgb(0, 0, 0);
 }
 
 /* visited link */
@@ -166,7 +166,7 @@ a:visited {
 
 /* mouse over link */
 a:hover {
-  color: rgb(213, 205,197);
+  color: rgb(94,0, 29);
 }
 
 
