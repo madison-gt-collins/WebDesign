@@ -53,24 +53,29 @@ body {
         font-family:"DM Serif Display", serif;
 }
 
-
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  gap: 10px;
+  margin: auto; 
+  padding: 10px;
+}
 
 .item {
- background-color: rgb(94, 0, 29); 
- padding: 60px 20px;
- border-radius: 8px;
+  background-color: rgb(94, 0, 29);
+  border-radius: 8px;
   aspect-ratio: 1 / 1;
   display: flex;
   justify-content: center;
-  text-align: center;
 }
 
 .item img {
   padding: 0;
-  width: 100%; /* makes the image fill the container’s width */
+  width: 100%;
   height: auto; /* maintains the image's aspect ratio */
   display: block; /* clears any space after the image */
-  border-radius: 8px; /* optional */
+  border-radius: 8px;
+  
 }
 
 .item p {
@@ -78,6 +83,7 @@ body {
   display: flex;
   align-items: center;
 }
+
 
 
 .carousel-item img {
