@@ -49,7 +49,7 @@ body {
 
 
 .gallery2 img {
-        width: 30%; /* three images per row (3 x 30% + gaps) */
+        width: 50%; /* three images per row (3 x 30% + gaps) */
         height: auto;
         border-radius: 12px;
     }
@@ -102,8 +102,7 @@ button {
 }
 
 button:hover {
-  background-color: rgb(94
-, 0, 29);
+  background-color: rgb(94, 0, 29);
 }
 
  video {
