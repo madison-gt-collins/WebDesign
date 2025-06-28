@@ -67,10 +67,10 @@ body {
 
 .item img {
   padding: 0;
-  width: 100%; /* makes the image fill the container’s width */
+  width: 70%; /* makes the image fill the container’s width */
   height: auto; /* maintains the image's aspect ratio */
   display: block; /* clears any space after the image */
-
+  border-radius: 8px; /* optional */
 }
 
 .item p {
