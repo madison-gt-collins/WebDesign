@@ -89,11 +89,6 @@ body {
   align-items: center;
 }
 
-.navbar-brand {
-  position: absolute;
-  top: 8px;
-  font-family: "DM Serif Display", serif;
-}
 
 .carousel-item img {
   max-height: 680px;
