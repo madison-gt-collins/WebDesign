@@ -32,11 +32,11 @@ body {
   padding: 10px;
 }
 .paragraph {
-        background-color: #abc1cf;
+        background-color: rgb(140, 142, 144);
         padding: 10px;
         border: 5px solid #000000;
         margin-top: 20px;
-        font-family:""DM Serif Display", serif;
+        font-family:"DM Serif Display", serif;
 }
 
 
@@ -92,6 +92,18 @@ button:hover {
  #audio {
     text-align: center;
   }
+
+
+
+   footer {
+        background-color: #000000;
+        font-family:"DM Serif Display", serif;
+        color: #FFFFFF;
+        padding: 5px;
+        text-align: center;
+    }
+
+
 
 @media (max-width: 600px) {
   /* Styles for mobile screens */
