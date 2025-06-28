@@ -68,7 +68,7 @@ body {
         width: 30%; /* three images per row (3 x 30% + gaps) */
         height: auto;
         border-radius: 12px;
- 
+    }
 
 .item {
  background-color: rgb(94, 0, 29); 
