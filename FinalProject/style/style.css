@@ -143,9 +143,8 @@ font-family: "DM Serif Display", serif;
 
 /* unvisited link */
 a:link {
-  color: rgb(0, 0, 0);
+  color:  rgb(140, 142, 144);
 }
-
 /* visited link */
 a:visited {
   color: rgb(140, 142, 144);
