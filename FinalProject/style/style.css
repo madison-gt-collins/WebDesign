@@ -1,7 +1,13 @@
-header {
-  text-align: center;
-}
 
+header {
+    border: 5px solid #000000;
+    padding: 25px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(140,142,144);
+    margin-bottom: 10px;
+    box-shadow: 4px 4px 8px rgba(94,0,29);
+}
 
 
 
