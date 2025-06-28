@@ -150,6 +150,23 @@ font-family: "DM Serif Display", serif;
 
 
 
+/* unvisited link */
+a:link {
+  color: rgb(94, 0, 29);
+}
+
+/* visited link */
+a:visited {
+  color: rgb(140, 142, 144);
+}
+
+/* mouse over link */
+a:hover {
+  color: rgb(213, 205,197);
+}
+
+
+
 @media (max-width: 600px) {
   /* Styles for mobile screens */
 }
