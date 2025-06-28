@@ -131,10 +131,13 @@ li:hover {
 
 img{
         display: block;
-        max-width: 100%;
+        max-width: 250%;
         margin: 0 auto;
         image-orientation: center;
-    }
+        gap: 10px;
+  padding: 10px;
+}
+    
 
 @media (max-width: 600px) {
   /* Styles for mobile screens */
